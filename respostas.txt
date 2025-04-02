@@ -1,0 +1,11 @@
+Nome de usuário:miguelgvm
+Senha:x
+UID:1001
+GID principal:1002
+GECOS:,,,
+Diretório inicial:/home/miguelgvm
+Shell:/bin/bash
+
+
+
+
